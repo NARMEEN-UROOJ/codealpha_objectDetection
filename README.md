@@ -19,7 +19,9 @@ A professional, and high-performance object detection application built with **Y
 
 ## 📽️ Project Demo
 
-> **[PLACEHOLDER: Replace this with your demo video link or gif]**
+
+https://github.com/user-attachments/assets/729c5805-baa4-4b0a-89c8-b52413473ab7
+
 
 ---
 
